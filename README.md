@@ -1,2 +1,2 @@
 # Problem-Solving-Hackerank-Solution
-Hackerank Solution for Problem solving with 6 star gold level
+Hackerank Solution to Problem solving for 6 star gold level
